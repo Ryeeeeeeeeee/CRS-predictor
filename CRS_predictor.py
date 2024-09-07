@@ -12,7 +12,7 @@ model = joblib.load('XGBoost.pkl')
 
 # Define feature names
 feature_names = [
-    "Age (years)", "BUN (mg/dl)", "BNP (pg/mL)", "cTNI (ng/ml),
+    "Age (years)", "BUN (mg/dl)", "BNP (pg/mL)", "cTNI (ng/ml)",
     "Hypertension"
 ]
 
